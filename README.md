@@ -27,7 +27,7 @@
 <td width="60%" valign="top">
 <img align="left" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/e562ee9f-d70a-436d-8db4-4a5cf3f68615.gif" width="120px"/>
 
-I'm **Ray**, an independent developer building **web platforms**, **Android apps**, and **backend APIs** end-to-end — from database design to production deployment.
+I'm **SuikaRyp**, an independent developer building **web platforms**, **Android apps**, and **backend APIs** end-to-end — from database design to production deployment.
 
 - 🔭 Currently building **SuikaRyp Read**, a native manga/manhwa reader app
 - 💻 Working across **PHP reseller platforms**, **Node.js backends**, and **Kotlin/Compose** apps
